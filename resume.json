@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Eddie Naff",
+    "label": "Web Developer",
+    "picture": "https://en.gravatar.com/userimage/122561520/050cc56e0629c9e4e82e8ee74bd61825.jpg",
+    "email": "eddienaff@gmail.com",
+    "phone": "(415) 200-7004",
+    "website": "http://eddienaff.com",
+    "summary": "Eddie hails from Bakersfield. He has earned degree from the California State University San Francisco.",
+    "location": {
+      "address": "2370 Fulton Street",
+      "postalCode": "CA 94118",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "theednaffattack",
+        "url": "https://twitter.com/theednaffattack"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Pied Piper",
+      "position": "CEO/President",
+      "website": "http://piedpiper.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "California State University, San Francisco",
+      "area": "Cinema",
+      "studyType": "Bachelor",
+      "startDate": "2001-08-01",
+      "endDate": "2006-05-01",
+      "gpa": "3.6"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "NodeJS",
+        "REST",
+        "GraphQL",
+        "MongoDB",
+        "Postgres",
+        "React",
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Version Control & Deployment",
+      "level": "Master",
+      "keywords": [
+        "git",
+        "Semantic Release",
+        "npm",
+        "TravisCI"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Animation",
+      "keywords": [
+        "Web Animation",
+        "Stop Motion Animation"
+      ]
+    },
+    {
+      "name": "Motion Graphics",
+      "keywords": [
+        "Real Time Cinematic MoGraph"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "reference": "References available upon request"
+    }
+  ]
+}
