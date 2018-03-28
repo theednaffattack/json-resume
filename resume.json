@@ -49,18 +49,22 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Front End",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Back End",
       "level": "Master",
       "keywords": [
         "NodeJS",
-        "REST",
         "GraphQL",
-        "MongoDB",
-        "Postgres",
-        "React",
-        "HTML",
-        "CSS",
-        "Javascript"
+        "REST"
       ]
     },
     {
