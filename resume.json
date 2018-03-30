@@ -6,7 +6,7 @@
     "email": "eddienaff@gmail.com",
     "phone": "(415) 200-7004",
     "website": "http://eddienaff.com",
-    "summary": "Eddie hails from Bakersfield. He has earned degree from the California State University San Francisco.",
+    "summary": "Full-stack web developer with extensive experience building NodeJS and PHP backed websites using, HTML5, CSS3 and various JavaScript frame- works. Enthusiastic web professional motivated by challenging projects and deadlines.",
     "location": {
       "address": "2370 Fulton Street",
       "postalCode": "CA 94118",
@@ -26,9 +26,9 @@
     {
       "company": "Madison Reed",
       "position": "Interim Office Coordinator",
-      "website": "madison-reed.com",
+      "website": "http://madison-reed.com",
       "startDate": "2018-03-08",
-      "endDate": "2018-03-28",
+      "endDate": "2018-03-30",
       "summary": "Need a summary",
       "highlights": [
         "receiving & shipments",
@@ -39,7 +39,7 @@
     {
       "company": "Destination Analysts",
       "position": "Data Entry & Aggregation",
-      "website": "destinationanalysts.com",
+      "website": "http://destinationanalysts.com",
       "startDate": "2017-11-20",
       "endDate": "2018-02-28",
       "summary": "Need a summary",
@@ -52,12 +52,78 @@
     {
       "company": "Eventbrite",
       "position": "Marketing Ops Assistant",
-      "website": "eventbrite.com",
-      "startDate": "2017-08-01",
-      "endDate": "2017-10-01",
-      "summary": "",
+      "website": "http://eventbrite.com",
+      "startDate": "2017-05-01",
+      "endDate": "2017-07-01",
+      "summary": "Need a summary",
       "highlights": [
-        ""
+        "Updated existing Marketo landing pages to use a newly styled form to accommodate a recent design change."
+      ]
+    },
+    {
+      "company": "Hawk Ridge Systems",
+      "position": "Web Developer / Producer",
+      "website": "http://hawkridgesys.com",
+      "startDate": "2015-07-01",
+      "endDate": "2016-11-01",
+      "summary": "Full-stack developer responsible for creation and maintenance of all web systems and materials",
+      "highlights": [
+        "CMS and content management (ExpressionEngine)",
+        "Video editing and publication",
+        "Design of internal APIs for systems integration (Marketo, Netsuite)",
+        "Dev. Ops support to related business units."
+      ]
+    },
+    {
+      "company": "ClearSlide",
+      "position": "Marketing Ops Assistant",
+      "website": "http://clearslide.com",
+      "startDate": "2013-11-01",
+      "endDate": "2015-04-01",
+      "summary": "Managed incoming lead data for qualification\rand distribution to sales. Also responsible for integrating web tools to assist with the above.",
+      "highlights": [
+        "Data cleaning, data gathering in Salesforce and Marketo",
+        "Creation of NodeJS / Angular apps to replace the default SFDC\ninterface for faster data input"
+      ]
+    },
+    {
+      "company": "Administrative Office of the Courts",
+      "position": "Safety Analyst",
+      "website": "http://courts.ca.gov",
+      "startDate": "2010-03-01",
+      "endDate": "2013-06-01",
+      "summary": "Provided safety analysis services for the\rconstruction and maintenance of California’s courthouses.",
+      "highlights": [
+        "Designed and implementated an in-house customization of the Facilities Management system by integrating Excel, Access, and JavaScript for faster info sharing",
+        "Created and managed the Asbestos Management Program and database for statewide asbestos compliance in\nCalifornia’s courthouses",
+        "Logged and tracked incidents involving injury and property damage in California courthouses for future",
+        "Managed OCIP insurance program to insure new courthouse construction projects"
+      ]
+    },
+    {
+      "company": "California Pacific Medical Center",
+      "position": "Operations Assistant",
+      "website": "http://cpmc.org",
+      "startDate": "2008-08-01",
+      "endDate": "2010-02-01",
+      "summary": "Need a summary",
+      "highlights": [
+        "Conducted regular counts of medical equipment inventory for\nCPMC’s new surgical training center",
+        "Analyzed trends in ordering and equipment turnover to prevent\nwaste"
+      ]
+    },
+    {
+      "company": "Orange County Transportation Authority",
+      "position": "Intern",
+      "website": "http://octa.net",
+      "startDate": "2007-12-01",
+      "endDate": "2008-06-01",
+      "summary": "Need a summary",
+      "highlights": [
+        "Gathered data for long-term planning projects",
+        "Analyzed rider surveys on customer needs and requirements",
+        "Assisted in the development of new policies and procedures",
+        "Provided clerical support for the associate and senior\ntransportation analysts"
       ]
     }
   ],
@@ -90,17 +156,8 @@
         "GraphQL",
         "REST"
       ]
-    },
-    {
-      "name": "Version Control & Deployment",
-      "level": "Master",
-      "keywords": [
-        "git",
-        "Semantic Release",
-        "npm",
-        "TravisCI"
-      ]
     }
+    
   ],
   "interests": [
     {
