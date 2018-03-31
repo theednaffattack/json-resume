@@ -6,7 +6,7 @@
     "email": "eddienaff@gmail.com",
     "phone": "(415) 200-7004",
     "website": "http://eddienaff.com",
-    "summary": "Full-stack web developer with extensive experience building NodeJS and PHP backed websites using, HTML5, CSS3 and various JavaScript frame- works. Enthusiastic web professional motivated by challenging projects and deadlines.",
+    "summary": "Web developer with extensive experience building NodeJS and PHP backed websites using, HTML5, CSS3 and various JavaScript frameworks.",
     "location": {
       "address": "2370 Fulton Street",
       "postalCode": "CA 94118",
@@ -31,33 +31,33 @@
       "endDate": "2018-03-30",
       "summary": "Need a summary",
       "highlights": [
-        "receiving & shipments",
-        "front desk",
-        "assist w/ onboarding & provisioning"
+        "Process all receiving & shipments",
+        "Manage facility management needs including maintenance, access, and security",
+        "Provision computer hardware for new employees"
       ]
     },
     {
       "company": "Destination Analysts",
-      "position": "Data Entry & Aggregation",
+      "position": "Interim Office Coordinator",
       "website": "http://destinationanalysts.com",
       "startDate": "2017-11-20",
       "endDate": "2018-02-28",
-      "summary": "Need a summary",
+      "summary": "Temporary assignment with Premier Talent",
       "highlights": [
-        "data transformations from various languages to english",
-        "scoring  survey data by open-ended answers by subject matter",
-        "report generation using node.js"
+        "Developed an interior application to generate PowerPoint reports using JavaScript",
+        "Automated open-ended survey scoring by utilizing Elasticsearch for Natural Language Processing.",
+        "Automated translation and geocoding of international survey data for analysis using Google Translation and Places APIs"
       ]
     },
     {
       "company": "Eventbrite",
-      "position": "Marketing Ops Assistant",
+      "position": "Marketing Operations Assistant",
       "website": "http://eventbrite.com",
       "startDate": "2017-05-01",
       "endDate": "2017-07-01",
-      "summary": "Need a summary",
+      "summary": "Temporary assignment with Premier Talent",
       "highlights": [
-        "Updated existing Marketo landing pages to use a newly styled form to accommodate a recent design change."
+        "Updated existing Marketo landing pages to use a newly styled form to accommodate a recent design change using HTML, CSS, and JavaScript."
       ]
     },
     {
@@ -68,22 +68,25 @@
       "endDate": "2016-11-01",
       "summary": "Full-stack developer responsible for creation and maintenance of all web systems and materials",
       "highlights": [
-        "CMS and content management (ExpressionEngine)",
-        "Video editing and publication",
-        "Design of internal APIs for systems integration (Marketo, Netsuite)",
-        "Dev. Ops support to related business units."
+        "Sole designer for all print and web needs",
+        "Maintained deployment of ExpressionEngine, a PHP-based CMS and content management platform",
+        "Recorded, edited, and produced training, testimonial, and webinar videos for publication in multiple channels",
+        "Managed all SEO and web advertising company-wide",
+        "Designed internal APIs for systems integration (Marketo, Netsuite, eCommerce, company site)",
+        "Provided operations support to related business units by customizing Netsuite dashboards, designing reports, etc."
       ]
     },
     {
       "company": "ClearSlide",
-      "position": "Marketing Ops Assistant",
+      "position": "Marketing Operations Assistant",
       "website": "http://clearslide.com",
       "startDate": "2013-11-01",
       "endDate": "2015-04-01",
-      "summary": "Managed incoming lead data for qualification\rand distribution to sales. Also responsible for integrating web tools to assist with the above.",
+      "summary": "Managed incoming lead data for qualification and distribution to sales. Also responsible for integrating web tools to assist with the above.",
       "highlights": [
         "Data cleaning, data gathering in Salesforce and Marketo",
-        "Creation of NodeJS / Angular apps to replace the default SFDC\ninterface for faster data input"
+        "Creation of NodeJS / Angular apps to replace the default SFDC interface for faster data input",
+        "Created internal competitor analysis engine using NodeJS, Mongo, and the CasperJS visual testing library"
       ]
     },
     {
@@ -92,10 +95,10 @@
       "website": "http://courts.ca.gov",
       "startDate": "2010-03-01",
       "endDate": "2013-06-01",
-      "summary": "Provided safety analysis services for the\rconstruction and maintenance of California’s courthouses.",
+      "summary": "Provided safety analysis services for the construction and maintenance of California’s courthouses.",
       "highlights": [
         "Designed and implementated an in-house customization of the Facilities Management system by integrating Excel, Access, and JavaScript for faster info sharing",
-        "Created and managed the Asbestos Management Program and database for statewide asbestos compliance in\nCalifornia’s courthouses",
+        "Created and managed the Asbestos Management Program and database for statewide asbestos compliance in California’s courthouses",
         "Logged and tracked incidents involving injury and property damage in California courthouses for future",
         "Managed OCIP insurance program to insure new courthouse construction projects"
       ]
@@ -106,10 +109,11 @@
       "website": "http://cpmc.org",
       "startDate": "2008-08-01",
       "endDate": "2010-02-01",
-      "summary": "Need a summary",
+      "summary": "",
       "highlights": [
-        "Conducted regular counts of medical equipment inventory for\nCPMC’s new surgical training center",
-        "Analyzed trends in ordering and equipment turnover to prevent\nwaste"
+        "Created a digital asset management system using Mongo and Angular to speed up equipment intake and warehouse storage for all CPMC hospitals in San Francisco",
+        "Tracked and managed the medical equipment inventory for CPMC’s surgical training center",
+        "Instituted asset tagging system for faster equipment identification using open source barcoding and mobile cameras using Angular and Redis"
       ]
     },
     {
@@ -118,12 +122,12 @@
       "website": "http://octa.net",
       "startDate": "2007-12-01",
       "endDate": "2008-06-01",
-      "summary": "Need a summary",
+      "summary": "",
       "highlights": [
         "Gathered data for long-term planning projects",
         "Analyzed rider surveys on customer needs and requirements",
         "Assisted in the development of new policies and procedures",
-        "Provided clerical support for the associate and senior\ntransportation analysts"
+        "Provided clerical support for the associate and senior transportation analysts"
       ]
     }
   ],
@@ -145,19 +149,12 @@
         "HTML",
         "CSS",
         "Javascript",
-        "React"
-      ]
-    },
-    {
-      "name": "Back End",
-      "level": "Master",
-      "keywords": [
+        "React",
+        "Angular 1.*",
         "NodeJS",
-        "GraphQL",
-        "REST"
+        "GraphQL"
       ]
-    }
-    
+    }    
   ],
   "interests": [
     {
